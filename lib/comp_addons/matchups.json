@@ -1,0 +1,122 @@
+[
+  {
+    "matchup": {
+      "a": {
+        "name": "Overlord",
+        "level": 45,
+        "stats": [0, 2, 3, 7, 7, 7, 0, 7]
+      },
+      "b": {
+        "name": "Overlord",
+        "level": 45,
+        "stats": [0, 2, 3, 7, 7, 7, 0, 7]
+      },
+      "weight": 50
+    }
+  },
+  {
+    "matchup": {
+      "a": {
+        "name": "Fighter",
+        "level": 45,
+        "stats": [1, 0, 0, 4, 7, 7, 7, 7]
+      },
+      "b": {
+        "name": "Fighter",
+        "level": 45,
+        "stats": [1, 0, 0, 4, 7, 7, 7, 7]
+      },
+      "weight": 50
+    }
+  },
+  {
+    "matchup": {
+      "a": {
+        "name": "Sniper",
+        "level": 22,
+        "stats": [0, 0, 0, 7, 7, 7, 0, 0]
+      },
+      "b": {
+        "name": "Sniper",
+        "level": 22,
+        "stats": [0, 0, 0, 7, 7, 7, 0, 0]
+      },
+      "weight": 20
+    }
+  },
+  {
+    "matchup": {
+      "a": {
+        "name": "Tank",
+        "level": 15,
+        "stats": [0, 0, 0, 0, 7, 7, 0, 0]
+      },
+      "b": {
+        "name": "Tank",
+        "level": 15,
+        "stats": [0, 0, 0, 0, 7, 7, 0, 0]
+      },
+      "weight": 10
+    }
+  },
+  {
+    "matchup": {
+      "a": {
+        "name": "Triplet",
+        "level": 45,
+        "stats": [0, 0, 0, 5, 7, 7, 7, 7]
+      },
+      "b": {
+        "name": "Triplet",
+        "level": 45,
+        "stats": [0, 0, 0, 5, 7, 7, 7, 7]
+      },
+      "weight": 30
+    }
+  },
+  {
+    "matchup": {
+      "a": {
+        "name": "Overlord",
+        "level": 45,
+        "stats": [1, 2, 2, 7, 7, 7, 0, 7]
+      },
+      "b": {
+        "name": "Triple Shot",
+        "level": 45,
+        "stats": [0, 2, 3, 0, 7, 7, 7, 7]
+      },
+      "weight": 10
+    }
+  },
+  {
+    "matchup": {
+      "a": {
+        "name": "Overseer",
+        "level": 30,
+        "stats": [0, 0, 0, 7, 7, 7, 0, 7]
+      },
+      "b": {
+        "name": "Overseer",
+        "level": 45,
+        "stats": [0, 0, 0, 7, 7, 7, 0, 7]
+      },
+      "weight": 10
+    }
+  },
+  {
+    "matchup": {
+      "a": {
+        "name": "Octo",
+        "level": 1,
+        "stats": [0, 0, 0, 5, 7, 7, 7, 7]
+      },
+      "b": {
+        "name": "Octo",
+        "level": 1,
+        "stats": [0, 0, 0, 5, 7, 7, 7, 7]
+      },
+      "weight": 5
+    }
+  }
+]

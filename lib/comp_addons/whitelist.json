@@ -1,0 +1,76 @@
+{
+  "players": [
+    {
+      "username": "Orblitz",
+      "password": "1464",
+      "elo": 500.0,
+      "online": false
+    },
+    {
+      "username": "EggYolk",
+      "password": "piano",
+      "elo": 500.0,
+      "online": false
+    },
+    {
+      "username": "1",
+      "password": "1",
+      "elo": 500.0,
+      "online": false
+    },
+    {
+      "username": "2",
+      "password": "2",
+      "elo": 500.0,
+      "online": false
+    },
+    {
+      "username": "3",
+      "password": "3",
+      "elo": 500.0,
+      "online": false
+    },
+    {
+      "username": "4",
+      "password": "4",
+      "elo": 500.0,
+      "online": false
+    },
+    {
+      "username": "5",
+      "password": "5",
+      "elo": 500.0,
+      "online": false
+    },
+    {
+      "username": "6",
+      "password": "6",
+      "elo": 500.0,
+      "online": false
+    },
+    {
+      "username": "7",
+      "password": "7",
+      "elo": 500.0,
+      "online": false
+    },
+    {
+      "username": "8",
+      "password": "8",
+      "elo": 500.0,
+      "online": false
+    },
+    {
+      "username": "9",
+      "password": "9",
+      "elo": 500.0,
+      "online": false
+    },
+    {
+      "username": "0",
+      "password": "0",
+      "elo": 500.0,
+      "online": false
+    }
+  ]
+}
